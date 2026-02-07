@@ -1,4 +1,4 @@
-# RetailIQ
+# 🛒 RetailIQ
 End-to-end cloud analytics engineering project built on **Snowflake**, featuring a star-schema data warehouse, automated SQL ETL pipeline, data validation framework, and Power BI dashboards for customer and product insights.
 
 ---
